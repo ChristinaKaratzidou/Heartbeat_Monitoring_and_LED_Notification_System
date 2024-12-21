@@ -38,7 +38,6 @@ This project utilizes an ESP32 microcontroller to monitor heartbeats using a Hea
 1. Install **Arduino IDE**.
 2. Add **ESP32 Board** to the Arduino IDE.
 3. Install Required Libraries:
-   - **Heartbeat Sensor Library**.
    - **ThingSpeak Library**.
    - **ESP32 WiFi Library**.
 4. Create a **ThingSpeak Channel**:
